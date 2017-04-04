@@ -1,2 +1,2 @@
 # Bioinformatics-UC.San.Diego
-Bioinformatics - Coursera
+Master bioinformatics software and computational approaches in modern biology - Coursera
