@@ -13,6 +13,12 @@ Master bioinformatics software and computational approaches in modern biology - 
   * [Which DNA Patterns Play the Role of Molecular Clocks? II](http://bioinformaticsalgorithms.com/faqs/motifs.html#week4)
   
 ## Course II - Genome Sequencing
+* Introduction to Genome Sequencing
+  * 
+* Applying Euler's Theorem to Assemble Genomes
+* Sequencing Antibiotics
+* From Ideal to Real Spectra for Antibiotics Sequencing
+
 ## Course III - Comparing Genes, Proteins, and Genomes
 ## Course IV - Molecular Evolution
 ## Course V - Genomic Data Science and Clustering
