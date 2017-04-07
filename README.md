@@ -1,6 +1,13 @@
 # Bioinformatics-UC.San.Diego
 Master bioinformatics software and computational approaches in modern biology - Coursera
 
+## Course I - Finding Hidden Messages in DNA
+## Course II - Genome Sequencing
+## Course III - Comparing Genes, Proteins, and Genomes
+## Course IV - Molecular Evolution
+## Course V - Genomic Data Science and Clustering
+## Course VI - Finding Mutations in DNA and Proteins 
+
 #### Taught by: 
 #### Pavel Pevzner, Professor - Department of Computer Science and Engineering 
 #### Phillip E. C. Compeau, Postdoctoral Researcher - Computer Science & Engineering, UC San Diego
