@@ -18,7 +18,9 @@ Master bioinformatics software and computational approaches in modern biology - 
 * Applying Euler's Theorem to Assemble Genomes
   * [How Do We Assemble Genomes? II](http://bioinformaticsalgorithms.com/faqs/assembly.html#week2)
 * Sequencing Antibiotics
+  * [How Do We Sequence Antibiotics? I](http://bioinformaticsalgorithms.com/faqs/antibiotics.html#week3)
 * From Ideal to Real Spectra for Antibiotics Sequencing
+  * [How Do We Sequence Antibiotics? II](http://bioinformaticsalgorithms.com/faqs/antibiotics.html#week4)
 
 ## Course III - Comparing Genes, Proteins, and Genomes
 ## Course IV - Molecular Evolution
