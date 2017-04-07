@@ -5,13 +5,13 @@ Master bioinformatics software and computational approaches in modern biology - 
 * Welcome!
   * [Where in the Genome Does DNA Replication Begin? I](http://bioinformaticsalgorithms.com/faqs/replication.html)
   * [Background of pseudocode](http://bioinformaticsalgorithms.com/excerpt/Pseudocode.pdf)
-
 * Finding Replication Origins
   * [Where in the Genome Does DNA Replication Begin? II](http://bioinformaticsalgorithms.com/faqs/replication.html#week2)
-
 * Hunting for Regulatory Motifs
+  * [Which DNA Patterns Play the Role of Molecular Clocks? I](http://bioinformaticsalgorithms.com/faqs/motifs.html)
 * How Rolling Dice Helps Us Find Regulatory Motifs
-
+  * [Which DNA Patterns Play the Role of Molecular Clocks? II](http://bioinformaticsalgorithms.com/faqs/motifs.html#week4)
+  
 ## Course II - Genome Sequencing
 ## Course III - Comparing Genes, Proteins, and Genomes
 ## Course IV - Molecular Evolution
