@@ -3,6 +3,8 @@ Master bioinformatics software and computational approaches in modern biology - 
 
 ## Course I - Finding Hidden Messages in DNA
 * Welcome!
+  * Background of pseudocode
+
 * Finding Replication Origins
 * Hunting for Regulatory Motifs
 * How Rolling Dice Helps Us Find Regulatory Motifs
