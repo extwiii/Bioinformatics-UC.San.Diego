@@ -3,9 +3,12 @@ Master bioinformatics software and computational approaches in modern biology - 
 
 ## Course I - Finding Hidden Messages in DNA
 * Welcome!
-  * Background of pseudocode
+  * [Where in the Genome Does DNA Replication Begin? I](http://bioinformaticsalgorithms.com/faqs/replication.html)
+  * [Background of pseudocode](http://bioinformaticsalgorithms.com/excerpt/Pseudocode.pdf)
 
 * Finding Replication Origins
+  * [Where in the Genome Does DNA Replication Begin? II](http://bioinformaticsalgorithms.com/faqs/replication.html#week2)
+
 * Hunting for Regulatory Motifs
 * How Rolling Dice Helps Us Find Regulatory Motifs
 
