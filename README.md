@@ -30,7 +30,9 @@ Master bioinformatics software and computational approaches in modern biology - 
 * Advanced Topics in Sequence Alignment
   * [How Do We Compare Biological Sequences? III](http://bioinformaticsalgorithms.com/faqs/alignment.html#week3)
 * Genome Rearrangements and Fragility
+  * [Are There Fragile Regions in the Human Genome? I](http://bioinformaticsalgorithms.com/faqs/rearrangements.html#week4)
 * Applying Genome Rearrangement Analysis to Find Genome Fragility
+  * [Are There Fragile Regions in the Human Genome? II](http://bioinformaticsalgorithms.com/faqs/rearrangements.html#week5)
 
 ## Course IV - Molecular Evolution
 ## Course V - Genomic Data Science and Clustering
