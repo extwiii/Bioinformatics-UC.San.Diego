@@ -23,6 +23,13 @@ Master bioinformatics software and computational approaches in modern biology - 
   * [How Do We Sequence Antibiotics? II](http://bioinformaticsalgorithms.com/faqs/antibiotics.html#week4)
 
 ## Course III - Comparing Genes, Proteins, and Genomes
+* Introduction to Sequence Alignment
+  * [How Do We Compare Biological Sequences?](http://bioinformaticsalgorithms.com/faqs/alignment.html#week1)
+* From Finding a Longest Path to Aligning DNA Strings
+* Advanced Topics in Sequence Alignment
+* Genome Rearrangements and Fragility
+* Applying Genome Rearrangement Analysis to Find Genome Fragility
+
 ## Course IV - Molecular Evolution
 ## Course V - Genomic Data Science and Clustering
 ## Course VI - Finding Mutations in DNA and Proteins 
