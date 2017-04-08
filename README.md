@@ -24,9 +24,11 @@ Master bioinformatics software and computational approaches in modern biology - 
 
 ## Course III - Comparing Genes, Proteins, and Genomes
 * Introduction to Sequence Alignment
-  * [How Do We Compare Biological Sequences?](http://bioinformaticsalgorithms.com/faqs/alignment.html#week1)
+  * [How Do We Compare Biological Sequences? I](http://bioinformaticsalgorithms.com/faqs/alignment.html#week1)
 * From Finding a Longest Path to Aligning DNA Strings
+  * [How Do We Compare Biological Sequences? II](http://bioinformaticsalgorithms.com/faqs/alignment.html#week2)
 * Advanced Topics in Sequence Alignment
+  * [How Do We Compare Biological Sequences? III](http://bioinformaticsalgorithms.com/faqs/alignment.html#week3)
 * Genome Rearrangements and Fragility
 * Applying Genome Rearrangement Analysis to Find Genome Fragility
 
