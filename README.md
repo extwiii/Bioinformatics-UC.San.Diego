@@ -43,7 +43,14 @@ Master bioinformatics software and computational approaches in modern biology - 
   * [Which Animal Gave Us SARS? III](http://bioinformaticsalgorithms.com/faqs/evolution.html#week3)
 
 ## Course V - Genomic Data Science and Clustering
+* This course isn't available yet
+
 ## Course VI - Finding Mutations in DNA and Proteins 
+* Introduction to Read Mapping
+* The Burrows-Wheeler Transform
+* Speeding Up Burrows-Wheeler Read Mapping
+* Introduction to Hidden Markov Models 
+* Profile HMMs for Sequence Alignment
 
 #### Taught by: 
 #### Pavel Pevzner, Professor - Department of Computer Science and Engineering 
