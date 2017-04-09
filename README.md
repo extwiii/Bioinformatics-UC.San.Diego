@@ -36,9 +36,11 @@ Master bioinformatics software and computational approaches in modern biology - 
 
 ## Course IV - Molecular Evolution
 * Introduction to Evolutionary Tree Construction
-  * [Which Animal Gave Us SARS?](http://bioinformaticsalgorithms.com/faqs/evolution.html#week1)
+  * [Which Animal Gave Us SARS? I](http://bioinformaticsalgorithms.com/faqs/evolution.html#week1)
 * More Algorithms for Constructing Trees from Distance Matrices
+  * [Which Animal Gave Us SARS? II](http://bioinformaticsalgorithms.com/faqs/evolution.html#week2)
 * Constructing Evolutionary Trees from Characters
+  * [Which Animal Gave Us SARS? III](http://bioinformaticsalgorithms.com/faqs/evolution.html#week3)
 
 ## Course V - Genomic Data Science and Clustering
 ## Course VI - Finding Mutations in DNA and Proteins 
