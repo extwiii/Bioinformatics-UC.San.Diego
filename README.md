@@ -35,6 +35,11 @@ Master bioinformatics software and computational approaches in modern biology - 
   * [Are There Fragile Regions in the Human Genome? II](http://bioinformaticsalgorithms.com/faqs/rearrangements.html#week5)
 
 ## Course IV - Molecular Evolution
+* Introduction to Evolutionary Tree Construction
+  * [Which Animal Gave Us SARS?](http://bioinformaticsalgorithms.com/faqs/evolution.html#week1)
+* More Algorithms for Constructing Trees from Distance Matrices
+* Constructing Evolutionary Trees from Characters
+
 ## Course V - Genomic Data Science and Clustering
 ## Course VI - Finding Mutations in DNA and Proteins 
 
