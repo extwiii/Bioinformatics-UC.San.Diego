@@ -53,7 +53,9 @@ Master bioinformatics software and computational approaches in modern biology - 
 * Speeding Up Burrows-Wheeler Read Mapping
   * [How Do We Locate Disease-Causing Mutations? III](http://bioinformaticsalgorithms.com/faqs/bwt.html#week3)
 * Introduction to Hidden Markov Models 
+  * [Why Have Biologists Still Not Developed an HIV Vaccine? I](http://bioinformaticsalgorithms.com/faqs/hmm.html#week4)
 * Profile HMMs for Sequence Alignment
+  * [Why Have Biologists Still Not Developed an HIV Vaccine? II](http://bioinformaticsalgorithms.com/faqs/hmm.html#week5)
 
 #### Taught by: 
 #### Pavel Pevzner, Professor - Department of Computer Science and Engineering 
