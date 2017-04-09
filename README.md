@@ -47,8 +47,11 @@ Master bioinformatics software and computational approaches in modern biology - 
 
 ## Course VI - Finding Mutations in DNA and Proteins 
 * Introduction to Read Mapping
+  * [How Do We Locate Disease-Causing Mutations? I](http://bioinformaticsalgorithms.com/faqs/bwt.html#week1)
 * The Burrows-Wheeler Transform
+  * [How Do We Locate Disease-Causing Mutations? II](http://bioinformaticsalgorithms.com/faqs/bwt.html#week2)
 * Speeding Up Burrows-Wheeler Read Mapping
+  * [How Do We Locate Disease-Causing Mutations? III](http://bioinformaticsalgorithms.com/faqs/bwt.html#week3)
 * Introduction to Hidden Markov Models 
 * Profile HMMs for Sequence Alignment
 
